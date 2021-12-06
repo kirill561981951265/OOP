@@ -1,0 +1,37 @@
+D:\Доки\Уник\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.exe
+D:\Доки\Уник\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.deps.json
+D:\Доки\Уник\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.runtimeconfig.json
+D:\Доки\Уник\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.runtimeconfig.dev.json
+D:\Доки\Уник\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.dll
+D:\Доки\Уник\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.pdb
+D:\Доки\Уник\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.csprojAssemblyReference.cache
+D:\Доки\Уник\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.AssemblyInfoInputs.cache
+D:\Доки\Уник\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.AssemblyInfo.cs
+D:\Доки\Уник\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.dll
+D:\Доки\Уник\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.pdb
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.exe
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.deps.json
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.runtimeconfig.json
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.runtimeconfig.dev.json
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.dll
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\bin\Debug\netcoreapp3.1\OOTP_Lab3.pdb
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.csprojAssemblyReference.cache
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.AssemblyInfoInputs.cache
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.AssemblyInfo.cs
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.csproj.CoreCompileInputs.cache
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.dll
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.pdb
+F:\Чуть-чуть\2 курс\1 сем\OOTP\OOTP_Lab3\obj\Debug\netcoreapp3.1\OOTP_Lab3.genruntimeconfig.cache
+D:\БГТУ\OOP\OOP-3\bin\Debug\netcoreapp3.1\OOTP_Lab3.exe
+D:\БГТУ\OOP\OOP-3\bin\Debug\netcoreapp3.1\OOTP_Lab3.deps.json
+D:\БГТУ\OOP\OOP-3\bin\Debug\netcoreapp3.1\OOTP_Lab3.runtimeconfig.json
+D:\БГТУ\OOP\OOP-3\bin\Debug\netcoreapp3.1\OOTP_Lab3.runtimeconfig.dev.json
+D:\БГТУ\OOP\OOP-3\bin\Debug\netcoreapp3.1\OOTP_Lab3.dll
+D:\БГТУ\OOP\OOP-3\bin\Debug\netcoreapp3.1\OOTP_Lab3.pdb
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.csprojAssemblyReference.cache
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.AssemblyInfoInputs.cache
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.AssemblyInfo.cs
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.csproj.CoreCompileInputs.cache
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.dll
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.pdb
+D:\БГТУ\OOP\OOP-3\obj\Debug\netcoreapp3.1\OOTP_Lab3.genruntimeconfig.cache

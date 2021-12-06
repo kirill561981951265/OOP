@@ -1,0 +1,39 @@
+D:\БГТУ\OOP\OOP -2\oop2\bin\Debug\netcoreapp3.1\oop2.exe
+D:\БГТУ\OOP\OOP -2\oop2\bin\Debug\netcoreapp3.1\oop2.deps.json
+D:\БГТУ\OOP\OOP -2\oop2\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.json
+D:\БГТУ\OOP\OOP -2\oop2\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.dev.json
+D:\БГТУ\OOP\OOP -2\oop2\bin\Debug\netcoreapp3.1\oop2.dll
+D:\БГТУ\OOP\OOP -2\oop2\bin\Debug\netcoreapp3.1\oop2.pdb
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.csprojAssemblyReference.cache
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.AssemblyInfoInputs.cache
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.AssemblyInfo.cs
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.csproj.CoreCompileInputs.cache
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.dll
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.pdb
+D:\БГТУ\OOP\OOP -2\oop2\obj\Debug\netcoreapp3.1\oop2.genruntimeconfig.cache
+D:\БГТУ\OOP\OOP-2\oop2\bin\Debug\netcoreapp3.1\oop2.exe
+D:\БГТУ\OOP\OOP-2\oop2\bin\Debug\netcoreapp3.1\oop2.deps.json
+D:\БГТУ\OOP\OOP-2\oop2\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.json
+D:\БГТУ\OOP\OOP-2\oop2\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.dev.json
+D:\БГТУ\OOP\OOP-2\oop2\bin\Debug\netcoreapp3.1\oop2.dll
+D:\БГТУ\OOP\OOP-2\oop2\bin\Debug\netcoreapp3.1\oop2.pdb
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.csprojAssemblyReference.cache
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.AssemblyInfoInputs.cache
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.AssemblyInfo.cs
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.csproj.CoreCompileInputs.cache
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.dll
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.pdb
+D:\БГТУ\OOP\OOP-2\oop2\obj\Debug\netcoreapp3.1\oop2.genruntimeconfig.cache
+D:\БГТУ\OOP\OOP-k\bin\Debug\netcoreapp3.1\oop2.exe
+D:\БГТУ\OOP\OOP-k\bin\Debug\netcoreapp3.1\oop2.deps.json
+D:\БГТУ\OOP\OOP-k\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.json
+D:\БГТУ\OOP\OOP-k\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.dev.json
+D:\БГТУ\OOP\OOP-k\bin\Debug\netcoreapp3.1\oop2.dll
+D:\БГТУ\OOP\OOP-k\bin\Debug\netcoreapp3.1\oop2.pdb
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.csprojAssemblyReference.cache
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.AssemblyInfoInputs.cache
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.AssemblyInfo.cs
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.csproj.CoreCompileInputs.cache
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.dll
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.pdb
+D:\БГТУ\OOP\OOP-k\obj\Debug\netcoreapp3.1\oop2.genruntimeconfig.cache

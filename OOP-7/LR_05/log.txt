@@ -1,0 +1,162 @@
+Время: 09.11.2021 18:30:47
+Ошибка #1: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:40:00
+Ошибка #1: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:40:15
+Ошибка #1: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:41:26
+Ошибка #1: Недопустимое значение 
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:42:03
+Ошибка #1: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:42:18
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:44:45
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 45
+
+Время: 09.11.2021 18:45:37
+Ошибка #1: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 45
+
+Время: 09.11.2021 18:45:47
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 09.11.2021 18:45:47
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 45
+
+Время: 14.11.2021 22:52:59
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 14.11.2021 22:52:59
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 45
+
+Время: 14.11.2021 22:54:56
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 14.11.2021 22:54:56
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 45
+
+Время: 14.11.2021 22:55:16
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 33
+
+Время: 14.11.2021 22:55:16
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 45
+
+Время: 14.11.2021 23:00:56
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 22
+
+Время: 14.11.2021 23:00:56
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 34
+
+Время: 14.11.2021 23:00:56
+Ошибка #3: Index was outside the bounds of the array.
+LR_05
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 72
+
+Время: 14.11.2021 23:00:56
+Ошибка #4: Unable to cast object of type 'System.String' to type 'System.Char'.
+LR_05
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 84
+
+Время: 30.11.2021 18:01:13
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 22
+
+Время: 30.11.2021 18:01:13
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 34
+
+Время: 30.11.2021 18:01:13
+Ошибка #3: Index was outside the bounds of the array.
+LR_05
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 72
+
+Время: 30.11.2021 18:01:13
+Ошибка #4: Unable to cast object of type 'System.String' to type 'System.Char'.
+LR_05
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 84
+
+Время: 30.11.2021 18:10:39
+Ошибка #1: Недопустимое значение цвета
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 74
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 22
+
+Время: 30.11.2021 18:10:39
+Ошибка #2: Недопустимое значение возраста
+LR_05
+   at LR_07.Razum..ctor(String Name, Int32 Age, String color, String Number) in D:\БГТУ\OOP\OOP-7\LR_05\Interface.cs:line 79
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 34
+
+Время: 30.11.2021 18:10:39
+Ошибка #3: Index was outside the bounds of the array.
+LR_05
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 72
+
+Время: 30.11.2021 18:10:39
+Ошибка #4: Unable to cast object of type 'System.String' to type 'System.Char'.
+LR_05
+   at LR_07.LR_07.Main(String[] args) in D:\БГТУ\OOP\OOP-7\LR_05\Program.cs:line 84
+

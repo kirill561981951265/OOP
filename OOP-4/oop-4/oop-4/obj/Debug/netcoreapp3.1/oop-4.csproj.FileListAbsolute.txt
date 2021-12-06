@@ -1,0 +1,13 @@
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\bin\Debug\netcoreapp3.1\oop-4.exe
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\bin\Debug\netcoreapp3.1\oop-4.deps.json
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\bin\Debug\netcoreapp3.1\oop-4.runtimeconfig.json
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\bin\Debug\netcoreapp3.1\oop-4.runtimeconfig.dev.json
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\bin\Debug\netcoreapp3.1\oop-4.dll
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\bin\Debug\netcoreapp3.1\oop-4.pdb
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.AssemblyInfoInputs.cache
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.AssemblyInfo.cs
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.csproj.CoreCompileInputs.cache
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.dll
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.pdb
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.genruntimeconfig.cache
+D:\БГТУ\OOP\OOP-4\oop-4\oop-4\obj\Debug\netcoreapp3.1\oop-4.csprojAssemblyReference.cache
